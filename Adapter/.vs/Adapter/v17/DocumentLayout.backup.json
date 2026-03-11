@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klg\\Desktop\\Patterns\\Patterns\\Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACBC737-73D5-4D15-BD2B-378C99C4027A}|Adapter\\Adapter.vcxproj|C:\\Users\\klg\\Desktop\\Patterns\\Patterns\\Adapter\\Adapter\\Adapter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5ACBC737-73D5-4D15-BD2B-378C99C4027A}|Adapter\\Adapter.vcxproj|solutionrelative:Adapter\\Adapter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adapter.cpp",
+              "DocumentMoniker": "C:\\Users\\klg\\Desktop\\Patterns\\Patterns\\Adapter\\Adapter\\Adapter.cpp",
+              "RelativeDocumentMoniker": "Adapter\\Adapter.cpp",
+              "ToolTip": "C:\\Users\\klg\\Desktop\\Patterns\\Patterns\\Adapter\\Adapter\\Adapter.cpp*",
+              "RelativeToolTip": "Adapter\\Adapter.cpp*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T13:09:18.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
