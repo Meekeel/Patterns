@@ -65,6 +65,7 @@ public:
 };
 
 int main() {
+    setlocale(LC_ALL, "rus");
     std::cout << "Демонстрация паттерна Adapter\n";
 
     std::cout << "Старый принтер через объектный адаптер\n";
