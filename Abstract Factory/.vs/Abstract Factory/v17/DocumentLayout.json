@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klg\\source\\repos\\Abstract Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B44C47F5-83AB-4EB7-B8D9-864C786B2DE4}|Abstract Factory\\Abstract Factory.vcxproj|C:\\Users\\klg\\source\\repos\\Abstract Factory\\Abstract Factory\\Abstract Factory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B44C47F5-83AB-4EB7-B8D9-864C786B2DE4}|Abstract Factory\\Abstract Factory.vcxproj|solutionrelative:Abstract Factory\\Abstract Factory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Abstract Factory.cpp",
+              "DocumentMoniker": "C:\\Users\\klg\\source\\repos\\Abstract Factory\\Abstract Factory\\Abstract Factory.cpp",
+              "RelativeDocumentMoniker": "Abstract Factory\\Abstract Factory.cpp",
+              "ToolTip": "C:\\Users\\klg\\source\\repos\\Abstract Factory\\Abstract Factory\\Abstract Factory.cpp",
+              "RelativeToolTip": "Abstract Factory\\Abstract Factory.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAH8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T12:56:45.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
